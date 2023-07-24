@@ -1,9 +1,6 @@
   <h1 align="center">Hey, I'm Victor</h1>
   <h3 align="center">Software Engineer</h3>
-
-  <div align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=victormanduca&label=Profile%20views&color=0e75b6&style=flat" alt="victormanduca"/> 
-  </div>
+  
   </br>
   I started programming at 9 years old with a Web Design course, but I move away from this area and came back to programming just when I got to college, with 18 years old, of System Analysis and Development at Fatec and since then I didn't stop.
 
