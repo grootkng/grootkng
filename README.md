@@ -1,9 +1,9 @@
-  <h1 align="center">Hey, I'm Victor</h1>
-  <h3 align="center">Software Engineer</h3>
+  <h1 align="center">Victor Rizzo</h1>
+  <h3 align="center">Senior Software Engineer (Backend)</h3>
 
   </br>
   
-  <p align="center">Skills:</p>
+  <p align="center">Main skills:</p>
   <div align="center">
     <img src=https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white />
     <img src=https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white />
