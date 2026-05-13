@@ -2,7 +2,16 @@
   <h3 align="center">Senior Software Engineer (Backend)</h3>
 
   </br>
+  <div align="center">
+    <a href="https://www.victor-rizzo.com.br/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio">
+    </a>
+    <a href="https://www.linkedin.com/in/victorrizzo/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </div>
   
+  </br>
   <p align="center">Skills:</p>
   <div align="center">
     <img src=https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white />
@@ -10,8 +19,10 @@
     <img src=https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white />
     <img src=https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white />
     <img src=https://img.shields.io/badge/-JUnit-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white />
+    <img src="https://img.shields.io/badge/Apache%20Camel-%23E27A3F.svg?style=for-the-badge&logo=apache-camel&logoColor=white" />
     <img src=https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white />
     <img src=https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white />
+    <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
     <img src=https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E />
     <img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white />
     <img src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white />
