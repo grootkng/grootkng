@@ -1,8 +1,9 @@
-  <h1 align="center">Victor Rizzo</h1>
-  <h3 align="center">Senior Software Engineer (Backend)</h3>
-
-  </br>
   <div align="center">
+    <h1>Victor Rizzo</h1>
+  </div>
+  
+  <div align="center">
+    <h3>Senior Software Engineer (Backend)</h3>
     <a href="https://www.victor-rizzo.com.br/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio">
     </a>
@@ -12,7 +13,7 @@
   </div>
   
   </br>
-  <p align="center">Skills:</p>
+  <h3 align="center">Skills:</h3>
   <div align="center">
     <img src=https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white />
     <img src=https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white />
