@@ -3,7 +3,7 @@
   </div>
   
   <div align="center">
-    <h3>Senior Software Engineer (Backend)</h3>
+    <h3>Senior Software Engineer (Backend) | Application Security</h3>
     <a href="https://www.victor-rizzo.com.br/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio">
     </a>
